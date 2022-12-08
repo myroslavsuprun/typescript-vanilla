@@ -1,0 +1,19 @@
+{
+  "name": "typescript-project-1",
+  "version": "1.0.0",
+  "description": "",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/validator-typescript": "^2.8.1",
+    "parcel": "^2.8.1",
+    "typescript": "^4.9.4"
+  }
+}
